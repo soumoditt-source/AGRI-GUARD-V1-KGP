@@ -1,0 +1,10 @@
+{
+  "name": "AgriGuard",
+  "description": "An intelligent precision farming PWA developed by Soumoditya Das for Kshitij 2026.",
+  "author": "Soumoditya Das <soumoditt@gmail.com>",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
